@@ -1,18 +1,13 @@
 # Loss Ration Prediction
-
-Predicting Loss Ratios for Auto Insurance Portfolios
+![Project Banner](art/banner.png)
 
 ## Team Members
 
-- [Aditya Kamble](https://www.linkedin.com/in/adityakamble49/)
-- [Urma Haldar](https://www.linkedin.com/in/uhaldar/)
-- [Niraj Bista](https://www.linkedin.com/in/niraj-bista/)
-- [Michael Teague](https://www.linkedin.com/in/michael-teague-a37b766/)
+[Aditya Kamble](https://www.linkedin.com/in/adityakamble49/), [Urma Haldar](https://www.linkedin.com/in/uhaldar/), [Niraj Bista](https://www.linkedin.com/in/niraj-bista/), [Michael Teague](https://www.linkedin.com/in/michael-teague-a37b766/)
 
+## Description
 
-![Project Banner](art/banner.png)
-
-## Project Goals
+Predicting Loss Ratios for Auto Insurance Portfolios
 
 The goal of this project is to predict the natural logarithm of the loss ratio of a portfolio of auto insurance policies. The testing data contains a set of 330 policy portfolios, each having at least 1,000 auto policies.
 
