@@ -1,4 +1,4 @@
-# Loss Ration Prediction
+# Loss Ratio Prediction
 ![Project Banner](art/banner.png)
 
 ## Team Members
