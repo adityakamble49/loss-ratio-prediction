@@ -27,5 +27,9 @@ Predict the loss ratio of a set of insurance policy portfolios.
 - Calculated impact of each feature on loss amount and performed through Exploratory Data Analysis using Matplotlib & Seaborn to select important features for modelling.
 - Implemented rigorous feature engineering by grouping multiple policies into portfolio and creating useful features using aggregation which improved MAE by 0.90 and accuracy by 40%
 
+## Presentation
+
+[![Loss Ratio Prediction - Video Presentation](https://res.cloudinary.com/marcomontalbano/image/upload/v1590527549/video_to_markdown/images/youtube--OWiOLAGfRWA-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=OWiOLAGfRWA "Loss Ratio Prediction - Video Presentation")
+
 ## Results
 ![Kaggle Leaderboard](results/kaggle-leaderboard.png)
