@@ -1,0 +1,12 @@
+PLEASE DO NOT DISTRIBUTE THE DATASET OUTSIDE THIS CLASS!
+
+This dataset has been provided to enhance the learning 
+experience that you have in this class and create a framework where you can 
+work on an industry relevant problem. While, the dataset is anonymized to 
+avoid information compromise, it is still proprietary material and it is 
+restricted to this class. Thus, this dataset 
+is for you and your teammates to develop predictive models as required by the 
+class project. PLEASE DO NOT DISTRIBUTE THIS DATASET OUTSIDE THIS CLASS! Any 
+such attempt will jeopardize future collaborations with industry, and your 
+colleagues planning to take this class in the future will be deprived of this 
+type of learning experience.
