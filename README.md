@@ -8,7 +8,9 @@ Predicting Loss Ratios for Auto Insurance Portfolios
 - [Urma Haldar](https://www.linkedin.com/in/uhaldar/)
 - [Niraj Bista](https://www.linkedin.com/in/niraj-bista/)
 - [Michael Teague](https://www.linkedin.com/in/michael-teague-a37b766/)
-    
+
+
+![Project Banner](art/banner.png)
 
 ## Project Goals
 
