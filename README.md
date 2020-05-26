@@ -1,4 +1,4 @@
-# Loss Ratio Prediction
+# Loss Ratio Prediction - Auto Insurance Portfolios
 ![Project Banner](art/banner.png)
 
 ## Team Members
